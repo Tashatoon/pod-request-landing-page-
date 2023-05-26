@@ -5,7 +5,10 @@ body {
 .container {
     position: relative;
 }
-
+.logo img {
+    position: absolute;
+    padding-left: 80px;
+}
 .container img {
 display: -webkit-box;
 margin-left: auto;
@@ -27,7 +30,7 @@ margin-left: auto;
 }
 
 .text h1 span {
-    color:rgb(56, 211, 110);
+    color:rgb(140, 229, 171);
 }
 
 button, input {
@@ -37,15 +40,17 @@ button, input {
  input {
     width: 400px;
     height: 40px;
-    background: rgb(171, 160, 160);
+    background: rgb(68, 72, 74);
+    color: white;
     outline: none;
     border: none;
+    
 }
 
 button {
     margin-left: -32.9%;
     width: 200px;
     height: 55px;
-    background: rgb(56, 211, 110);
+    background: rgb(140, 229, 171);
 
 }
