@@ -16,9 +16,9 @@ margin-left: auto;
     bottom: 50px;
     background-color: black;
     color: white;
-    padding-left: 60px;
-    padding-right: 300px; 
-    padding-top: 250px;
+    padding-left: 80px;
+    padding-right: 120px; 
+    padding-top: 150px;
     padding-bottom: 60px;
 }
 
@@ -28,4 +28,23 @@ margin-left: auto;
 
 .text h1 span {
     color:rgb(56, 211, 110);
+}
+
+button, input {
+    border-radius: 35px;
+    padding: 10px;
+}
+ input {
+    width: 400px;
+    height: 40px;
+    background: rgb(171, 160, 160);
+    outline: none;
+    border: none;
+}
+
+button {
+    margin-left: -32.9%;
+    width: 200px;
+    height: 55px;
+
 }
