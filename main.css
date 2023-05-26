@@ -2,16 +2,13 @@ body {
     background-color: black;
 }
 
-
-
 .container {
     position: relative;
 }
 
 .container img {
-display: flex;
-justify-content: right;
-
+display: -webkit-box;
+margin-left: auto;
 }
 
 .text {
@@ -20,6 +17,15 @@ justify-content: right;
     background-color: black;
     color: white;
     padding-left: 60px;
-    padding-right: 60px;
-    
+    padding-right: 60px; 
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.text h1 {
+    text-transform: uppercase;
+}
+
+.text h1 span {
+    color:rgb(56, 211, 110);
 }
