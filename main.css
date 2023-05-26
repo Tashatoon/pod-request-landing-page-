@@ -27,6 +27,8 @@ margin-left: auto;
 
 .text h1 {
     text-transform: uppercase;
+    font-family: Poppins;
+    font-size: 2.7em;
 }
 
 .text h1 span {
