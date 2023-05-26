@@ -35,6 +35,11 @@ margin-left: auto;
     color:rgb(140, 229, 171);
 }
 
+.text p {
+    line-height: 25px;
+    color: rgb(144, 140, 140);
+}
+
 button, input {
     border-radius: 35px;
     padding: 10px;
