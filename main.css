@@ -59,5 +59,14 @@ button {
     width: 200px;
     height: 55px;
     background: rgb(140, 229, 171);
+}
 
+#icons {
+  display: inline-block;
+  padding-top: 10%;
+}
+
+#icons div {
+    display: inline-block;
+    
 }
