@@ -9,7 +9,7 @@ function ValidateEmail(inputText)
       }
       else
       {
-      alert("You have entered an invalid email address!");
+      alert("Oops! Please add your email!");
       document.form1.text1.focus();
       return false;
       }
